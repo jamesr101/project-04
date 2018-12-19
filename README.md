@@ -44,7 +44,7 @@ A cocktail recipe app which allows users to see which drinks can be made using t
 
 This was a group project with one other developer, [Caoimhe Clarke](https://github.com/cc-85). We used Trello to manage the project and performed daily stand-ups. Features were prioritised using the MoSCoW method. Features were created on separate git branches before being merged into the development branch.
 
-[Trello]
+<img width="1439" alt="Trello Board" src="https://user-images.githubusercontent.com/40343797/50253961-233ae580-03e4-11e9-950f-72aeb976e4ee.png">
 
 We started the project by planning our models and database structure. As we were both relatively new to Python and SQL databases, we worked on this through pair programming.
 
