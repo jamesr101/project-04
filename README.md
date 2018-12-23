@@ -3,6 +3,9 @@
 
 ## Goal: To create a full-stack app with React.js & Python
 
+### Timeframe
+9 days
+
 ## Technologies used
 
 * Python
@@ -10,13 +13,15 @@
 * SQLAlchemy
 * PostgreSQL
 * React.js
-* HTML5 / SCSS / JavaScript (ES6)
+* JavaScript (ES6) / HTML5 / SCSS
 * JWT
 * Git / GitHub
 * Bulma CSS Framework
 
 ## My App - Tippled
 <img src="https://user-images.githubusercontent.com/40343797/50253501-4e243a00-03e2-11e9-877d-ab31fa658a51.png" alt="tippled logo" width="300"/>
+
+A hosted version of this app can be found on heroku at [tippled.herokuapp.com](https://tippled.herokuapp.com/)
 
 ### Application overview
 A cocktail recipe app which allows users to see which drinks can be made using the ingredients they own. This was a group project with one other developer.
