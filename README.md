@@ -71,5 +71,8 @@ I created a seeds file, which makes multiple requests to the cocktaildb API and 
 
 I become more familiar with React, I was pleased with handling error messages on the login/register pages and implementing [react-select](https://react-select.com/).
 
+<img width="1129" alt="Seeds file" src="https://user-images.githubusercontent.com/40343797/50379677-b162d600-0647-11e9-98d2-7e95f358915b.png">
+The code above is from our seeds file. This makes a request to the cocktaildb API for a list of cocktails. The code transverses this list of cocktails and makes a new request for each cocktail. Each cocktail is saved to our database with its corresponding ingredients.
+
 ## Future features
 If we had more time, I would like to add testing to our application. For future improvements our site could do with cleaning of out data for the ingredients to minimise duplicate or similar entries as items with/without capital letters or differences in spelling will exist as separate items. We would have liked to allowed users to be friends with other users to see which cocktails they could make together, and allow users to star or favourite cocktails.
